@@ -1,0 +1,465 @@
+Runde 1
+Current amount: 50000
+Stake: 8750
+Scored: 2
+Betted: 1 with 1.71 in odds
+She won 14963
+Current amount: 50000 + 14963 = 64963
+--------------------------------------------------------
+Runde 2
+Current amount: 64963
+Stake: 11369
+Scored: 0
+Betted: 2 with 2.24 in odds
+She lost -11369
+Current amount: 64963 + -11369 = 53594
+--------------------------------------------------------
+Runde 3
+Current amount: 53594
+Stake: 9379
+Scored: 1
+Betted: 2 with 2.32 in odds
+She lost -9379
+Current amount: 53594 + -9379 = 44215
+--------------------------------------------------------
+Runde 4
+Current amount: 44215
+Stake: 7738
+Scored: 3
+Betted: 1 with 1.73 in odds
+She won 13387
+Current amount: 44215 + 13387 = 57602
+--------------------------------------------------------
+Runde 5
+Current amount: 57602
+Stake: 10080
+Scored: 3
+Betted: 3 with 2.77 in odds
+She won 27922
+Current amount: 57602 + 27922 = 85524
+--------------------------------------------------------
+Runde 6
+Current amount: 85524
+Stake: 14967
+Scored: 1
+Betted: 1 with 1.65 in odds
+She won 24696
+Current amount: 85524 + 24696 = 110220
+--------------------------------------------------------
+Runde 7
+Current amount: 110220
+Stake: 19289
+Scored: 2
+Betted: 3 with 2.81 in odds
+She lost -19289
+Current amount: 110220 + -19289 = 90931
+--------------------------------------------------------
+Runde 8
+Current amount: 90931
+Stake: 15913
+Scored: 1
+Betted: 1 with 1.71 in odds
+She won 27211
+Current amount: 90931 + 27211 = 118142
+--------------------------------------------------------
+Runde 9
+Current amount: 118142
+Stake: 20675
+Scored: 1
+Betted: 2 with 1.94 in odds
+She lost -20675
+Current amount: 118142 + -20675 = 97467
+--------------------------------------------------------
+Runde 10
+Current amount: 97467
+Stake: 17057
+Scored: 3
+Betted: 2 with 2.09 in odds
+She won 35649
+Current amount: 97467 + 35649 = 133116
+--------------------------------------------------------
+Runde 11
+Current amount: 133116
+Stake: 23295
+Scored: 2
+Betted: 3 with 2.69 in odds
+She lost -23295
+Current amount: 133116 + -23295 = 109821
+--------------------------------------------------------
+Runde 12
+Current amount: 109821
+Stake: 19219
+Scored: 1
+Betted: 2 with 2.14 in odds
+She lost -19219
+Current amount: 109821 + -19219 = 90602
+--------------------------------------------------------
+Runde 13
+Current amount: 90602
+Stake: 15855
+Scored: 0
+Betted: 1 with 1.67 in odds
+She lost -15855
+Current amount: 90602 + -15855 = 74747
+--------------------------------------------------------
+Runde 14
+Current amount: 74747
+Stake: 13081
+Scored: 0
+Betted: 2 with 2.08 in odds
+She lost -13081
+Current amount: 74747 + -13081 = 61666
+--------------------------------------------------------
+Runde 15
+Current amount: 61666
+Stake: 10792
+Scored: 2
+Betted: 1 with 1.71 in odds
+She won 18454
+Current amount: 61666 + 18454 = 80120
+--------------------------------------------------------
+Runde 16
+Current amount: 80120
+Stake: 14021
+Scored: 0
+Betted: 3 with 2.64 in odds
+She lost -14021
+Current amount: 80120 + -14021 = 66099
+--------------------------------------------------------
+Runde 17
+Current amount: 66099
+Stake: 11567
+Scored: 0
+Betted: 1 with 1.66 in odds
+She lost -11567
+Current amount: 66099 + -11567 = 54532
+--------------------------------------------------------
+Runde 18
+Current amount: 54532
+Stake: 9543
+Scored: 0
+Betted: 2 with 2.29 in odds
+She lost -9543
+Current amount: 54532 + -9543 = 44989
+--------------------------------------------------------
+Runde 19
+Current amount: 44989
+Stake: 7873
+Scored: 1
+Betted: 1 with 1.69 in odds
+She won 13305
+Current amount: 44989 + 13305 = 58294
+--------------------------------------------------------
+Runde 20
+Current amount: 58294
+Stake: 10201
+Scored: 0
+Betted: 2 with 2.24 in odds
+She lost -10201
+Current amount: 58294 + -10201 = 48093
+--------------------------------------------------------
+Runde 21
+Current amount: 48093
+Stake: 8416
+Scored: 0
+Betted: 1 with 1.69 in odds
+She lost -8416
+Current amount: 48093 + -8416 = 39677
+--------------------------------------------------------
+Runde 22
+Current amount: 39677
+Stake: 6943
+Scored: 1
+Betted: 1 with 1.72 in odds
+She won 11942
+Current amount: 39677 + 11942 = 51619
+--------------------------------------------------------
+Runde 23
+Current amount: 51619
+Stake: 9033
+Scored: 2
+Betted: 2 with 2.14 in odds
+She won 19331
+Current amount: 51619 + 19331 = 70950
+--------------------------------------------------------
+Runde 24
+Current amount: 70950
+Stake: 12416
+Scored: 1
+Betted: 2 with 2.26 in odds
+She lost -12416
+Current amount: 70950 + -12416 = 58534
+--------------------------------------------------------
+Runde 25
+Current amount: 58534
+Stake: 10243
+Scored: 0
+Betted: 2 with 2.19 in odds
+She lost -10243
+Current amount: 58534 + -10243 = 48291
+--------------------------------------------------------
+Runde 26
+Current amount: 48291
+Stake: 8451
+Scored: 0
+Betted: 1 with 1.79 in odds
+She lost -8451
+Current amount: 48291 + -8451 = 39840
+--------------------------------------------------------
+Runde 27
+Current amount: 39840
+Stake: 6972
+Scored: 0
+Betted: 1 with 1.67 in odds
+She lost -6972
+Current amount: 39840 + -6972 = 32868
+--------------------------------------------------------
+Runde 28
+Current amount: 32868
+Stake: 5752
+Scored: 0
+Betted: 1 with 1.72 in odds
+She lost -5752
+Current amount: 32868 + -5752 = 27116
+--------------------------------------------------------
+Runde 29
+Current amount: 27116
+Stake: 4745
+Scored: 1
+Betted: 2 with 2.18 in odds
+She lost -4745
+Current amount: 27116 + -4745 = 22371
+--------------------------------------------------------
+Runde 30
+Current amount: 22371
+Stake: 3915
+Scored: 3
+Betted: 1 with 1.72 in odds
+She won 6734
+Current amount: 22371 + 6734 = 29105
+--------------------------------------------------------
+Runde 31
+Current amount: 29105
+Stake: 5093
+Scored: 0
+Betted: 2 with 2.12 in odds
+She lost -5093
+Current amount: 29105 + -5093 = 24012
+--------------------------------------------------------
+Runde 32
+Current amount: 24012
+Stake: 4202
+Scored: 0
+Betted: 1 with 1.74 in odds
+She lost -4202
+Current amount: 24012 + -4202 = 19810
+--------------------------------------------------------
+Runde 33
+Current amount: 19810
+Stake: 3467
+Scored: 0
+Betted: 1 with 1.71 in odds
+She lost -3467
+Current amount: 19810 + -3467 = 16343
+--------------------------------------------------------
+Runde 34
+Current amount: 16343
+Stake: 2860
+Scored: 1
+Betted: 2 with 2.19 in odds
+She lost -2860
+Current amount: 16343 + -2860 = 13483
+--------------------------------------------------------
+Runde 35
+Current amount: 13483
+Stake: 2360
+Scored: 0
+Betted: 1 with 1.69 in odds
+She lost -2360
+Current amount: 13483 + -2360 = 11123
+--------------------------------------------------------
+Runde 36
+Current amount: 11123
+Stake: 1947
+Scored: 0
+Betted: 1 with 1.77 in odds
+She lost -1947
+Current amount: 11123 + -1947 = 9176
+--------------------------------------------------------
+Runde 37
+Current amount: 9176
+Stake: 1606
+Scored: 1
+Betted: 1 with 1.78 in odds
+She won 2859
+Current amount: 9176 + 2859 = 12035
+--------------------------------------------------------
+Runde 38
+Current amount: 12035
+Stake: 2106
+Scored: 0
+Betted: 1 with 1.74 in odds
+She lost -2106
+Current amount: 12035 + -2106 = 9929
+--------------------------------------------------------
+Runde 39
+Current amount: 9929
+Stake: 1738
+Scored: 0
+Betted: 2 with 2.22 in odds
+She lost -1738
+Current amount: 9929 + -1738 = 8191
+--------------------------------------------------------
+Runde 40
+Current amount: 8191
+Stake: 1433
+Scored: 1
+Betted: 1 with 1.72 in odds
+She won 2465
+Current amount: 8191 + 2465 = 10656
+--------------------------------------------------------
+Runde 41
+Current amount: 10656
+Stake: 1865
+Scored: 5
+Betted: 4 with 4.39 in odds
+She won 8187
+Current amount: 10656 + 8187 = 18843
+--------------------------------------------------------
+Runde 42
+Current amount: 18843
+Stake: 3298
+Scored: 3
+Betted: 2 with 2.31 in odds
+She won 7618
+Current amount: 18843 + 7618 = 26461
+--------------------------------------------------------
+Runde 43
+Current amount: 26461
+Stake: 4631
+Scored: 0
+Betted: 1 with 1.74 in odds
+She lost -4631
+Current amount: 26461 + -4631 = 21830
+--------------------------------------------------------
+Runde 44
+Current amount: 21830
+Stake: 3820
+Scored: 2
+Betted: 3 with 2.87 in odds
+She lost -3820
+Current amount: 21830 + -3820 = 18010
+--------------------------------------------------------
+Runde 45
+Current amount: 18010
+Stake: 3152
+Scored: 1
+Betted: 1 with 1.81 in odds
+She won 5705
+Current amount: 18010 + 5705 = 23715
+--------------------------------------------------------
+Runde 46
+Current amount: 23715
+Stake: 4150
+Scored: 2
+Betted: 2 with 2.21 in odds
+She won 9172
+Current amount: 23715 + 9172 = 32887
+--------------------------------------------------------
+Runde 47
+Current amount: 32887
+Stake: 5755
+Scored: 1
+Betted: 2 with 2.16 in odds
+She lost -5755
+Current amount: 32887 + -5755 = 27132
+--------------------------------------------------------
+Runde 48
+Current amount: 27132
+Stake: 4748
+Scored: 0
+Betted: 2 with 2.38 in odds
+She lost -4748
+Current amount: 27132 + -4748 = 22384
+--------------------------------------------------------
+Runde 49
+Current amount: 22384
+Stake: 3917
+Scored: 1
+Betted: 1 with 1.7 in odds
+She won 6659
+Current amount: 22384 + 6659 = 29043
+--------------------------------------------------------
+Runde 50
+Current amount: 29043
+Stake: 5083
+Scored: 1
+Betted: 2 with 2.27 in odds
+She lost -5083
+Current amount: 29043 + -5083 = 23960
+--------------------------------------------------------
+Runde 51
+Current amount: 23960
+Stake: 4193
+Scored: 1
+Betted: 1 with 1.68 in odds
+She won 7044
+Current amount: 23960 + 7044 = 31004
+--------------------------------------------------------
+Runde 52
+Current amount: 31004
+Stake: 5426
+Scored: 0
+Betted: 2 with 2.19 in odds
+She lost -5426
+Current amount: 31004 + -5426 = 25578
+--------------------------------------------------------
+Runde 53
+Current amount: 25578
+Stake: 4476
+Scored: 0
+Betted: 1 with 1.78 in odds
+She lost -4476
+Current amount: 25578 + -4476 = 21102
+--------------------------------------------------------
+Runde 54
+Current amount: 21102
+Stake: 3693
+Scored: 1
+Betted: 1 with 1.77 in odds
+She won 6537
+Current amount: 21102 + 6537 = 27639
+--------------------------------------------------------
+Runde 55
+Current amount: 27639
+Stake: 4837
+Scored: 0
+Betted: 1 with 1.69 in odds
+She lost -4837
+Current amount: 27639 + -4837 = 22802
+--------------------------------------------------------
+Runde 56
+Current amount: 22802
+Stake: 3990
+Scored: 0
+Betted: 1 with 1.72 in odds
+She lost -3990
+Current amount: 22802 + -3990 = 18812
+--------------------------------------------------------
+Runde 57
+Current amount: 18812
+Stake: 3292
+Scored: 0
+Betted: 1 with 1.67 in odds
+She lost -3292
+Current amount: 18812 + -3292 = 15520
+--------------------------------------------------------
+Runde 58
+Current amount: 15520
+Stake: 2716
+Scored: 0
+Betted: 2 with 2.08 in odds
+She lost -2716
+Current amount: 15520 + -2716 = 12804
+--------------------------------------------------------
+Total lost: 37196
