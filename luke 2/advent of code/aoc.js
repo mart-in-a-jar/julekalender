@@ -17,7 +17,7 @@ const parseText = (input) => {
             const obj = {};
             subEle.forEach((ele) => {
                 const parts = ele.trim().split(" ");
-                obj[parts[1]] = parts[0];
+                obj[parts[1]] = +parts[0];
             });
             return obj;
         });
@@ -57,12 +57,38 @@ const addUp1 = (acc, current, index) => {
     return acc;
 };
 
-const main = async () => {
+// Part 2
+
+const findLowest = (arr) => {
+    const obj = {};
+    arr.forEach((round) => {
+        for (let color in round) {
+            if (!obj[color]) {
+                obj[color] = round[color];
+                continue;
+            }
+            if (round[color] > obj[color]) {
+                obj[color] = round[color];
+            }
+        }
+    });
+    return obj;
+};
+
+const addUp2 = (acc, current) => {
+    const lowestColors = findLowest(current);
+    const product = Object.values(lowestColors).reduce((acc, current) => {
+        return acc * current;
+    }, 1);
+    return acc + product;
+};
+
+const main = async (algorith) => {
     const text = await readfile(inputFile);
     const arr = parseText(text);
-
-    const answer = arr.reduce(addUp1, 0);
+    const answer = arr.reduce(algorith, 0);
     console.log(answer);
 };
 
-main();
+main(addUp1);
+main(addUp2);
