@@ -1,3 +1,5 @@
+// NB: denne feiler med store tall. Måtte lage python-versjon for å finne rett løsning
+
 const input = require("./input");
 
 const parseInput = (input) => {
